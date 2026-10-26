@@ -125,7 +125,7 @@ if [ $CHECK_ONLY -eq 1 ]; then
     # 通过 curl 探测 VERSION
     CURL_PROXY=()
     [ -n "$PROXY_PORT" ] && CURL_PROXY=("-x" "http://127.0.0.1:$PROXY_PORT")
-    R_VER="$(curl -sSL "${CURL_PROXY[@]}" --max-time 5 https://raw.githubusercontent.com/angusdevgo/Seep-Reverse-Lab/main/VERSION 2>/dev/null | tr -d '[:space:]' || true)"
+    R_VER="$(curl -sSL "${CURL_PROXY[@]}" --max-time 5 https://raw.githubusercontent.com/jarui555/Seep-Reverse-Max-performance/main/VERSION 2>/dev/null | tr -d '[:space:]' || true)"
     if [ -n "$R_VER" ] && [ "$R_VER" != "$OLD_VERSION" ]; then
         echo -e "  ${YELLOW}[UPDATE]${RESET} 检测到新版本 v$R_VER 发布！(当前本地版本: v$OLD_VERSION)"
         echo -e "  提示: 执行 ./setup/update.sh 即可一键更新。"
@@ -166,8 +166,8 @@ elif [ "$IS_GIT" != 1 ]; then
         info "检测到本机已安装 Git，正在将当前目录自动关联并初始化至远程仓库..."
         cd "$ROOT" || exit 1
         git init >/dev/null 2>&1 || true
-        git remote add origin https://github.com/angusdevgo/Seep-Reverse-Lab.git >/dev/null 2>&1 || true
-        git remote set-url origin https://github.com/angusdevgo/Seep-Reverse-Lab.git >/dev/null 2>&1 || true
+        git remote add origin https://github.com/jarui555/Seep-Reverse-Max-performance.git >/dev/null 2>&1 || true
+        git remote set-url origin https://github.com/jarui555/Seep-Reverse-Max-performance.git >/dev/null 2>&1 || true
         info "正在从远程仓库高速拉取最新代码..."
         git fetch origin main >/dev/null 2>&1 || true
         git reset --mixed origin/main >/dev/null 2>&1 || true

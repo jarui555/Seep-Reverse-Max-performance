@@ -1,3 +1,15 @@
+## Fork 说明（非上游版本）
+
+本仓库为 [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab) 的非官方 fork，基于 GPL-3.0 分发。相对上游的改动：
+
+- 新增非官方 fork 声明与交流群信息（QQ 群 `606140489`，非官方，加群非必需，不构成源码获取条件）
+- 版本检测与 `git remote` 改指本仓库，避免一键更新回拉上游覆盖本地修改
+- Release 徽章与 Star History 指向本仓库
+
+上游各版本变更记录保留在下方，未作删改。
+
+---
+
 # Changelog
 
 > 本文件面向**已部署用户**，说明每次更新带来什么变化、需要注意什么。

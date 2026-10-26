@@ -121,7 +121,7 @@ if ($Check) {
     }
 
     try {
-        $url = 'https://raw.githubusercontent.com/angusdevgo/Seep-Reverse-Lab/main/VERSION'
+        $url = 'https://raw.githubusercontent.com/jarui555/Seep-Reverse-Max-performance/main/VERSION'
         $handler = New-Object System.Net.Http.HttpClientHandler
         if ($proxyPort) {
             $handler.Proxy = New-Object System.Net.WebProxy("http://127.0.0.1:$proxyPort")
@@ -191,8 +191,8 @@ if ($NoPull) {
         Push-Location $Root
         try {
             & git init 2>&1 | Out-Null
-            & git remote add origin https://github.com/angusdevgo/Seep-Reverse-Lab.git 2>&1 | Out-Null
-            & git remote set-url origin https://github.com/angusdevgo/Seep-Reverse-Lab.git 2>&1 | Out-Null
+            & git remote add origin https://github.com/jarui555/Seep-Reverse-Max-performance.git 2>&1 | Out-Null
+            & git remote set-url origin https://github.com/jarui555/Seep-Reverse-Max-performance.git 2>&1 | Out-Null
             Write-Info '正在从远程仓库高速拉取最新代码...'
             & git @proxyArgs fetch origin main 2>&1 | ForEach-Object { Write-Info $_ }
             & git @proxyArgs reset --mixed origin/main 2>&1 | Out-Null

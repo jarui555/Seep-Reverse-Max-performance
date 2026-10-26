@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/angusdevgo/seep-reverse-lab"><img src="https://img.shields.io/badge/Release-v1.6.0-brightgreen.svg?style=for-the-badge&logo=github" alt="Release"></a>
+  <a href="https://github.com/jarui555/Seep-Reverse-Max-performance"><img src="https://img.shields.io/badge/Release-v1.8.2-brightgreen.svg?style=for-the-badge&logo=github" alt="Release"></a>
   <a href="https://github.com/angusdevgo/seep-reverse-lab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/Architecture-x86%20%7C%20x64%20%7C%20ARM64-orange?style=for-the-badge" alt="Architecture">
@@ -49,6 +49,15 @@
 > - Community support & technical discussions: [**LINUX DO**](https://linux.do/).
 
 ---
+
+> [!IMPORTANT]
+> **This is an unofficial fork, released under GPL-3.0**
+>
+> - **Upstream**: [angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab)
+> - **Modifications**: This fork contains changes on top of upstream; see [CHANGELOG.md](CHANGELOG.md) and the commit history
+> - **License**: Distributed under GPL-3.0 §5; full terms in [LICENSE](LICENSE). This repository as a whole is released under GPL-3.0
+> - **Unofficial**: Not an official upstream release. The upstream author is not responsible for this repository, its builds, or its support channels
+> - **Community group**: QQ `606140489` (unofficial, joining is optional, see "Community Group" at the end)
 
 ## 🌟 Project Overview
 
@@ -483,6 +492,21 @@ All client-side vulnerability assessments follow a consulting-grade 3-part struc
 
 ---
 
+## 💬 Community Group (Unofficial)
+
+| Item | Detail |
+| :--- | :--- |
+| **QQ group** | **606140489** |
+| **Group name** | Seep Reverse Lab Unofficial Community |
+| **Purpose** | Usage Q&A, deployment troubleshooting, and fork development discussion |
+| **Relation to upstream** | **Unofficial.** No affiliation with, authorization from, or endorsement by the upstream author angusdevgo |
+| **Is joining required?** | **No.** Source, docs, and releases are available directly from this repository. Joining is not a precondition for use or for obtaining source code |
+| **Not provided in group** | Any authorization-bypass service, any paid feature unlock, any gating of source access |
+
+> Source is always available at [this repository](https://github.com/jarui555/Seep-Reverse-Max-performance) with no group gate. Discussion in the group remains subject to the disclaimer below.
+
+---
+
 ## ⚖️ Disclaimer
 
 **This repository is intended solely for authorized security research, white-box auditing, compliance vulnerability testing, and educational CTF training.**
@@ -496,10 +520,10 @@ All client-side vulnerability assessments follow a consulting-grade 3-part struc
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/?repos=angusdevgo%2FSeep-Reverse-Lab&type=timeline&logscale=&releases=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=jarui555%2FSeep-Reverse-Max-performance&type=timeline&logscale=&releases=&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=angusdevgo/Seep-Reverse-Lab&type=timeline&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=angusdevgo/Seep-Reverse-Lab&type=timeline&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=angusdevgo/Seep-Reverse-Lab&type=timeline&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jarui555/Seep-Reverse-Max-performance&type=timeline&theme=dark&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jarui555/Seep-Reverse-Max-performance&type=timeline&logscale&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=jarui555/Seep-Reverse-Max-performance&type=timeline&logscale&legend=top-left" />
  </picture>
 </a>

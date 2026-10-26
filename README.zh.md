@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/angusdevgo/seep-reverse-lab"><img src="https://img.shields.io/badge/Release-v1.6.0-brightgreen.svg?style=for-the-badge&logo=github" alt="Release"></a>
+  <a href="https://github.com/jarui555/Seep-Reverse-Max-performance"><img src="https://img.shields.io/badge/Release-v1.8.2-brightgreen.svg?style=for-the-badge&logo=github" alt="Release"></a>
   <a href="https://github.com/angusdevgo/seep-reverse-lab/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=for-the-badge" alt="License"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Android%20%7C%20Linux-0078D6?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/Architecture-x86%20%7C%20x64%20%7C%20ARM64-orange?style=for-the-badge" alt="Architecture">
@@ -48,6 +48,15 @@
 > - 社区支持与技术讨论：[**LINUX DO**](https://linux.do/)。
 
 ---
+
+> [!IMPORTANT]
+> **本仓库是非官方 Fork，基于 GPL-3.0 发布**
+>
+> - **上游项目**：[angusdevgo/Seep-Reverse-Lab](https://github.com/angusdevgo/Seep-Reverse-Lab)
+> - **修改说明**：本仓库在上游基础上做了修改，改动见 [CHANGELOG.md](CHANGELOG.md) 与提交历史
+> - **许可证**：依据 GPL-3.0 §5 分发，完整条款见 [LICENSE](LICENSE)，本仓库整体同样以 GPL-3.0 发布
+> - **非官方**：本项目不是上游官方版本，上游作者不对本仓库的内容、构建产物或支持渠道负责
+> - **交流群**：QQ `606140489`（非官方群，加群非必需，详见文末「交流群」）
 
 ## 🌟 项目定位
 
@@ -474,6 +483,21 @@ powershell -ExecutionPolicy Bypass -File ./setup/uninstall.ps1          # 再执
 - 特别致谢开源项目 [**LING71671/open-reverselab**](https://github.com/LING71671/open-reverselab)（GPL-3.0 License）提供的实战攻防知识库、攻击网拓扑与 MCP 自动化工具生态。
 - 特别致谢开源项目 [**dabao1955/exe-reverse**](https://codeberg.org/dabao1955/exe-reverse)（MIT License）提供的 Windows PE 深水区方法论、带门禁的作业流程与零依赖 PE 引擎。
 - 感谢 [**LINUX DO**](https://linux.do/) 社区提供的高质量技术交流氛围。
+
+---
+
+## 💬 交流群（非官方）
+
+| 项 | 说明 |
+| :--- | :--- |
+| **QQ 群号** | **606140489** |
+| **群名称** | Seep Reverse Lab 非官方交流群 |
+| **群定位** | 本 fork 版本的使用答疑、部署排错、二次开发讨论 |
+| **与上游关系** | **非官方**。与原作者 angusdevgo 及上游项目无隶属、无授权、无背书关系 |
+| **加群是否必需** | **不是**。源码、文档与发布包均可直接从本仓库获取，加群不是使用软件或取得源码的前提条件 |
+| **群内不提供** | 任何绕过授权的服务、任何付费解锁功能、任何源码获取门槛 |
+
+> 源码获取入口始终为 [本仓库](https://github.com/jarui555/Seep-Reverse-Max-performance)，不设任何加群门槛。群内讨论范围同样受下方免责声明约束。
 
 ---
 
