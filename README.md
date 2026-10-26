@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app_logo.svg" alt="Seep Reverse Lab Logo" width="120" height="120">
+  <img src="app_logo.png" alt="Seep Reverse Lab Logo" width="120" height="120">
 </p>
 
 <h1 align="center">Seep Reverse Lab</h1>
@@ -22,6 +22,14 @@
   <img src="https://img.shields.io/badge/Paradigms-14%20Cases%20(A~N)-blue?style=for-the-badge" alt="Paradigms">
   <img src="https://img.shields.io/badge/MANUAL%20SOPs-9%20Tactical%20Guides-red?style=for-the-badge" alt="MANUAL SOPs">
   <a href="https://linux.do/"><img src="https://img.shields.io/badge/Community-LINUX%20DO-23272A?style=for-the-badge&logo=discourse" alt="LINUX DO"></a>
+</p>
+
+<p align="center">
+  <a href="#-community-group-unofficial"><img src="https://img.shields.io/badge/QQ%20Group-606140489-12B7F5?style=for-the-badge&logo=qq&logoColor=white&labelColor=0B5C8A" height="40" alt="QQ Group 606140489"></a>
+</p>
+
+<p align="center">
+  <strong>💬 Usage Q&amp;A · Deployment Help · Fork Development ｜ Unofficial, joining is optional</strong>
 </p>
 
 <p align="center">

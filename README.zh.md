@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="app_logo.svg" alt="Seep Reverse Lab Logo" width="120" height="120">
+  <img src="app_logo.png" alt="Seep Reverse Lab Logo" width="120" height="120">
 </p>
 
 <h1 align="center">Seep Reverse Lab</h1>
@@ -22,6 +22,14 @@
   <img src="https://img.shields.io/badge/脱敏范式-14%20大案例%20(A~N)-blue?style=for-the-badge" alt="Paradigms">
   <img src="https://img.shields.io/badge/MANUAL%20SOP-9%20份专项手册-red?style=for-the-badge" alt="MANUAL SOPs">
   <a href="https://linux.do/"><img src="https://img.shields.io/badge/社区-LINUX%20DO-23272A?style=for-the-badge&logo=discourse" alt="LINUX DO"></a>
+</p>
+
+<p align="center">
+  <a href="#-交流群非官方"><img src="https://img.shields.io/badge/QQ%E4%BA%A4%E6%B5%81%E7%BE%A4-606140489-12B7F5?style=for-the-badge&logo=qq&logoColor=white&labelColor=0B5C8A" height="40" alt="QQ 交流群 606140489"></a>
+</p>
+
+<p align="center">
+  <strong>💬 使用答疑 · 部署排错 · 二次开发讨论 ｜ 非官方群，加群非必需</strong>
 </p>
 
 <p align="center">
